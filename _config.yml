@@ -69,4 +69,7 @@ theme: Ada
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/ennea8/ennea8.github.io.git
+  branch: master
+  message: start from begining
