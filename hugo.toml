@@ -1,8 +1,8 @@
-baseURL = 'https://coffeewoo.org'
+baseURL = 'https://coffeewoo.org/'
 languageCode = 'en-us'
 title = 'coffeewoo'
-
 theme = "m10c"
+
 
 [[menu.main]]
 identifier = "tags"
