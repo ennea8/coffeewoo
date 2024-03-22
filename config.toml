@@ -1,4 +1,4 @@
-baseURL = 'https://coffeewoo.org/'
+baseURL = 'https://coffeewoo.com/'
 languageCode = 'en-us'
 title = 'coffeewoo'
 theme = "m10c"
